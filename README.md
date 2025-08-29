@@ -6,7 +6,7 @@ This project provides a Python script to generate **high-resolution QR codes** w
 
 ## 📦 Requirements
 
-Install the required dependencies before running the script:
+Install the required dependencies before running the Python script:
 
 ```
 python.exe -m pip install --upgrade pip
@@ -20,7 +20,7 @@ pip install Pillow qrcode
 2. Run the script:
 
    ```
-   python generate_qr.py
+   python generateQRcode.py
    ```
 3. The script will generate a QR code image (default: qr_with_logo_square_ultra.png)
 
